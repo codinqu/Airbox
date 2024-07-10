@@ -1,3 +1,24 @@
 .topbarNav img {
-    height: 50px;
+    padding-left: 5px;
+    height: 48px;
+}
+
+.topbarNav h2 {
+    padding-left: 55px;
+    margin-top: -44px;
+    font-size: 12px;
+}
+
+.topbarNav p {
+    padding-left: 55px;
+    margin-top: -8px;
+    font-size: 10px;
+}
+
+.navBar ul {
+    list-style: none;
+    font-size: 8px;
+    display: flex;
+    letter-spacing: 1px;
+    padding: 17px;
 }
