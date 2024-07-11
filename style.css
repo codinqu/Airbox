@@ -1,24 +1,36 @@
+.topBar {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(177, 168, 168);
+    background-color: rgb(72, 44, 97);
+}
 .topbarNav img {
-    padding-left: 5px;
-    height: 48px;
+    padding-left: 9px;
+    height: 49px;
+    margin-top: 11px;
 }
 
 .topbarNav h2 {
-    padding-left: 55px;
-    margin-top: -44px;
-    font-size: 12px;
+    padding-left: 64px;
+    margin-top: -43px;
+    font-size: 13px;
 }
 
 .topbarNav p {
-    padding-left: 55px;
-    margin-top: -8px;
+    padding-left: 65px;
+    margin-top: -11px;
     font-size: 10px;
 }
 
 .navBar ul {
     list-style: none;
-    font-size: 8px;
+    font-size: 7px;
     display: flex;
     letter-spacing: 1px;
-    padding: 17px;
+    padding: 19px;
+    margin-top: 11px;
+}
+
+.custSupport {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(72, 44, 97);
 }
