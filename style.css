@@ -192,3 +192,14 @@ font-size: 13px;
 .airboxEnd p {
     font-size: 10px;
 }
+
+.endContainer {
+    text-align: center;
+    background-color: #262336;
+    margin-top: -15px;
+    padding-bottom: 17px;
+}
+
+.logoS img {
+    height: 22px;
+}
